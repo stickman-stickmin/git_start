@@ -1,0 +1,8 @@
+# Local secrets — must never be committed
+password.txt
+
+# OS / editor noise
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
